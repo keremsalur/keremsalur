@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github profile, also you can see [my Hackerrank account].(https://www.hackerrank.com/profile/keremsalur)
+Welcome to my Github profile, also you can see [my Hackerrank account](https://www.hackerrank.com/profile/keremsalur)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keremsalur&layout=compact&show_icons=true&theme=github_dark&hide_border=true)
 
